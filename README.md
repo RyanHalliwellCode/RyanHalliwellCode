@@ -3,9 +3,8 @@ Welcome to my GitHub! I'm Ryan Halliwell, a developer from South Australia with 
 Here you can find a selection of my public repositories showcasing some of my work:
 
 - **WeatherAppPython**: A weather application built with Python.
-- **TvShowAIRecommender**: An AI-powered TV show recommendation system using JavaScript. (not finished) - JavaScript, HTML, CSS
-- **EmployeeFullStack**: A full-stack employee management app built with JavaScript, C#, HTML. CSS,
 - **MedFullStack**: A full-stack healthcare management system built with JavaScript, C#, HTML, Python, CSS
+- **AIMazeAndroid**: An AI-powered maze game developed for Android.
 
 📍 **Location**: South Australia  
 📅 **Timezone**: UTC -12:00  
